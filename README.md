@@ -28,4 +28,11 @@
 <img width="990" height="426" alt="Screenshot 2025-10-06 132621" src="https://github.com/user-attachments/assets/edbc5e60-707c-4ed9-b2c3-7b111e99eada" />
 
 
+# Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection
+
+
+<img width="1088" height="233" alt="Screenshot 2025-10-06 134702" src="https://github.com/user-attachments/assets/fb792893-3595-4c00-b7ed-57b8ab560c68" />
+
+
+
 
